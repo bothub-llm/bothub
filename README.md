@@ -3,7 +3,7 @@
 # 什么是 BotHub
 BotHub 是一款旨在引领智能对话时代的聊天应用与开发框架，我们的设计理念是提供优质的用户体验和简化人工智能应用的开发流程。通过优雅的对话界面和先进的技术，提升产品的使用体验，让您无需深谙大型语言模型，也能轻松打造出令人惊艳的人工智能应用。采用了友好的前端开发框架，您只需使用 [npm](https://www.npmjs.com/) 包就能轻松开发基于LLM（大型语言模型）的AI应用。
 
-![multi-modal-demo1.gif](./static/multi-modal-demo.gif)
+  ![multi-modal-demo1.gif](./static/multi-modal-demo.gif)
 
 <!-- 
 <details>
@@ -35,7 +35,7 @@ BotHub 的助手不仅丰富了用户的聊天体验，也极大地扩展了 Bot
 - **集成第三方服务:** 助手还可以与第三方服务集成，实现更复杂的功能。例如，可以集成邮件服务，让用户通过聊天直接发送电子邮件；或者与日历服务集成，帮助用户在聊天中轻松创建和管理日程安排。
 
 
-![assistant-manage3.png](./static/assistant-manage3.png)
+  ![assistant-manage3.png](./static/assistant-manage3.png)
 
 
-![computer-copilot.png](./static/computer-copilot.png)
+  ![computer-copilot.png](./static/computer-copilot.png)
