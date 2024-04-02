@@ -41,3 +41,15 @@ BotHub 的助手不仅丰富了用户的聊天体验，也极大地扩展了 Bot
 
 
   ![computer-copilot.png](./static/computer-copilot.png)
+
+
+## 联系我们  
+- 在线体验： https://bothub.feijiangkeji.com/
+- GitHub： https://github.com/bothub-llm/bothub
+- 官网文档： https://bothub.feijiangkeji.com/
+- 社区反馈： https://answer.feijiangkeji.com/
+
+欢迎体验分享,如果您对 Bothub 软件有任何兴趣、需求、建议和意见，可以随时联系我们:
+- QQ:794202187,2300738809
+- 微信:
+ ![qrcode.png]( ./static/qrcode.png)
