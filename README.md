@@ -53,3 +53,5 @@ BotHub 的助手不仅丰富了用户的聊天体验，也极大地扩展了 Bot
 - QQ:794202187,2300738809
 - 微信:
  ![qrcode.png]( ./static/qrcode.png)
+- 微信群:
+  ![weixingroup.jpg]( ./static/weixingroup.jpg)
